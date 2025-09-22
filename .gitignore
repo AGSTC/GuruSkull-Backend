@@ -1,4 +1,5 @@
-env
+env/
+venv/
 Common_Lib/GuruSkull/.env
 # Ignore Python compiled files
 *.pyc
