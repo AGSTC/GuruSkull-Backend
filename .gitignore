@@ -1,2 +1,6 @@
 env
 Common_Lib/GuruSkull/.env
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
