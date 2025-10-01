@@ -1,6 +1,7 @@
 setup.py
 guruskull_utils/__init__.py
 guruskull_utils/models.py
+guruskull_utils/serializers.py
 guruskull_utils.egg-info/PKG-INFO
 guruskull_utils.egg-info/SOURCES.txt
 guruskull_utils.egg-info/dependency_links.txt
